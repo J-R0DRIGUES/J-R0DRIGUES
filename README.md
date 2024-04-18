@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/J-R0DRIGUES/J-R0DRIGUES/main/octocat-1712794924465.png" alt="GitHub Octocat" height="200">
+        <img src="https://raw.githubusercontent.com/J-R0DRIGUES/J-R0DRIGUES/main/octocat-1712794924465%20(1).png" alt="GitHub Octocat" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2528FF&&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Juliana+%F0%9F%91%8B" alt="Headline" />
@@ -17,7 +17,7 @@
             <li>🎯 <b>I’m currently focusing on</b>:  Building my Career & Freelance Work </li>
             <li>😄 <b>Fun Facts</b>: I love Video Games 🎮, Playing Piano 🎹, Basketball 🏀 </li>
         </ul>
-                🔐 <b>My Superpower</b>: I can spot a suspicious packet from a mile away and decrypt it with a wink. Also, can configure Salesforce workflows faster than you can say “workflow.”<br>
+                🔐 <b>My Superpower</b>: I can spot a suspicious packet from a mile away and decrypt it with a wink.<br>
                 <br><b>💼 Salesforce Trailblazer</b>: I have a secret trail mix recipe that combines Lightning components, Apex triggers, and a dash of Einstein Analytics. It’s called “Trailmix Force” & its my favorite snack.<br>
     </div></strong><br>
 
